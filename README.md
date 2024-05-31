@@ -18,9 +18,7 @@ Once the script is installed, it will automatically run on the specified page, c
 - **Version:** 1.5
 - **Author:** You
 - **Description:** Convert Hijri dates to Gregorian and mark exams as finished if the date has passed.
-- **Libraries Used:** [moment.js](https://momentjs.com/) and [moment-hijri](https://github.com/xsoh/moment-hijri)
+- **Libraries Used:**  [https://github.com/dalwadani/hijri-converter](https://github.com/dalwadani/hijri-converter)
 
-## Script Code
-
-```javascript
-// Insert your script code here
+Special thanks to https://github.com/dalwadani for the Hijri to Gregorian converter code
+his code was used as a basis slightly modified and fit into the script 
